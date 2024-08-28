@@ -132,6 +132,10 @@ body {
   display: none;
 }
 
+#btnCopy {
+  margin-top: 200px;
+}
+
 .footer {
   background-color: var(--color-secundario);
   padding: 24px;
